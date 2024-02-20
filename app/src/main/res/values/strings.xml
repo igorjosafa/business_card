@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">business card</string>
+    <string name="name">Igor Josafa</string>
+    <string name="job">Android Developer</string>
+    <string name="phone">+55 (61) 99901-9493</string>
+    <string name="at">\@igorjosafa</string>
+    <string name="email">igorjosafa16@gmail.com</string>
+</resources>
